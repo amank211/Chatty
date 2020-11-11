@@ -1,2 +1,2 @@
 # Chatty
-An android application for chatting
+An android application developed in flutter(dart) for chatting.
